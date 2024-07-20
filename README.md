@@ -21,4 +21,4 @@ Para ejecutar el proyecto abre el archivo `index.html` puedes realizar los cambi
 
 ## :mag_right: Visualización online
 Puedes visualizar el proyecto de manera online a través del siguiente enlace: 
-[Juego de número secreto](https://wizardcode-bot.github.io/Portafolio-practica/) 
+[Portafolio](https://wizardcode-bot.github.io/Portafolio-practica/) 
