@@ -21,6 +21,4 @@ Para ejecutar el proyecto abre el archivo `index.html` puedes realizar los cambi
 
 ## :mag_right: Visualización online
 Puedes visualizar el proyecto de manera online a través del siguiente enlace: 
-<a  href="https://wizardcode-bot.github.io/Portafolio-practica/" target="_blank">
-Portafolio
-</a>
+<a  href="https://wizardcode-bot.github.io/Portafolio-practica/" target="_blank">Portafolio</a>
